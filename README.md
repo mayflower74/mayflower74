@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **mayflower74/mayflower74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...merlinbenedict2000@gmail.com
 - 😄 Pronouns: ...joke
 - ⚡ Fun fact: ...need more cofee to learn..
--->
+
